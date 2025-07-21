@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Davilucaas<br>👀 I’m interested in Data Science, Machine Leaning and Programming.<br>👨‍💻 I’m currently learning programming.<br>📺 I’m currently working as a Actuarial Analyst Jr at Hapvida Saúde.<br>
+👋 Hi, I’m @Davilucaas<br>👀 I’m interested in Data Science, Machine Leaning and Programming.<br>👨‍💻 I’m currently learning programming.<br>📺 I’m currently working as a Actuary at Camed Saúde.<br>
 
 
 ## 🌐 Socials:
